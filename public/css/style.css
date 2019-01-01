@@ -1,3 +1,50 @@
 body {
     font-family: 'Quicksand', sans-serif;
 }
+
+.jumbotron {
+    background-image: url('/images/study1.jpg');
+    color: white;
+    background-size: cover;
+    min-height: 450px;
+    display: flex;
+    align-items: baseline;
+    justify-content: top;
+    margin: 0;
+}
+
+.jumbotron_container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 80px;
+    margin-right: 20px;
+}
+
+.jumbotron h1 {
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    font-size: 70px;
+    font-weight: lighter;
+
+}
+
+.jumbotron_info {
+    font-style: italic;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+.social_buttons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+
+.compendium_container {
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
