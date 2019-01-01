@@ -18,7 +18,7 @@ const Header = () => {
                         <button class="ui google plus button">
                             <i class="google plus icon"></i>Gmail
                         </button>
-                        <button class="ui linkedin button">
+                        <button class="ui linkedin button" onClick={() => window.open("https://www.linkedin.com/in/eirik-dahlen-243a83139/", "_blank")}>
                             <i class="linkedin icon"></i>LinkedIn
                         </button>
                     </div>
