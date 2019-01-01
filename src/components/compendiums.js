@@ -22,7 +22,7 @@ class Compendiums extends Component {
 
                 <div className="compendiums_container">
 
-                    <div className="hvr-grow-shadow">
+                    <div className="hvr-grow-shadow" onClick={() => window.open('/compendiums/TDT4120.pdf')}>
                         <h3>TDT4120</h3>
                         <p>Algoritmer og datastrukturer</p>
                     </div>

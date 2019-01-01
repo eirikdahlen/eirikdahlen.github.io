@@ -15,11 +15,11 @@ const Header = () => {
                         <button className="ui facebook button" onClick={() => window.open("https://www.facebook.com/eirik.dahlen", "_blank")}>
                             <i className="facebook icon"></i>Facebook
                         </button>
-                        <button class="ui google plus button">
-                            <i class="google plus icon"></i>Gmail
+                        <button className="ui google plus button">
+                            <i className="google plus icon"></i>Gmail
                         </button>
-                        <button class="ui linkedin button" onClick={() => window.open("https://www.linkedin.com/in/eirik-dahlen-243a83139/", "_blank")}>
-                            <i class="linkedin icon"></i>LinkedIn
+                        <button className="ui linkedin button" onClick={() => window.open("https://www.linkedin.com/in/eirik-dahlen-243a83139/", "_blank")}>
+                            <i className="linkedin icon"></i>LinkedIn
                         </button>
                     </div>
                 </div>
