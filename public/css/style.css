@@ -1,3 +1,12 @@
 body {
     font-family: 'Quicksand', sans-serif;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.jumbotron {
+    background-color: #E0E0E0;
+    background-image: url('/images/study1.jpg');
+    color: white;
 }
