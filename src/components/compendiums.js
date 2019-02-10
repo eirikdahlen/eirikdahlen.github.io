@@ -24,31 +24,31 @@ class Compendiums extends Component {
 
                     <div className="hvr-grow-shadow" onClick={() => window.open('/compendiums/TDT4120.pdf')}>
                         <h3>TDT4120</h3>
-                        <p>Algoritmer og datastrukturer</p>
+                        <p>Algorithms and Data Structures</p>
                     </div>
-                    <div className="hvr-grow-shadow">
+                    <div className="hvr-grow-shadow" onClick={() => window.open('/compendiums/TDT4160.pdf')}>
                         <h3>TDT4160</h3>
-                        <p>Datamaskiner og digitalteknikk</p>
+                        <p>Computers and Digital Design</p>
                     </div>
-                    <div className="hvr-grow-shadow">
+                    <div className="hvr-grow-shadow" onClick={() => window.open('/compendiums/TDT4145.pdf')}>
                         <h3>TDT4145</h3>
-                        <p>Datamodellering og databasesystemer</p>
+                        <p>Data Modelling and Database Management Systems</p>
                     </div>
-                    <div className="hvr-grow-shadow">
+                    <div className="hvr-grow-shadow" onClick={() => window.open('/compendiums/TDT4180.pdf')}>
                         <h3>TDT4180</h3>
-                        <p>Menneske-maskin interaksjon</p>
+                        <p>Human-Computer Interaction</p>
                     </div>
-                    <div className="hvr-grow-shadow">
+                    <div className="hvr-grow-shadow" onClick={() => window.open('/compendiums/TTM4100.pdf')}>
                         <h3>TTM4100</h3>
-                        <p>Kommunikasjon - Tjenester og nett</p>
+                        <p>Communication - Services and Networks</p>
                     </div>
-                    <div className="hvr-grow-shadow">
+                    <div className="hvr-grow-shadow" onClick={() => window.open('/compendiums/TDT4136.pdf')}>
                         <h3>TDT4136</h3>
-                        <p>Introduksjon til kunstig intelligens</p>
+                        <p>Introduction to Artificial Intelligence</p>
                     </div>
-                    <div className="hvr-grow-shadow">
+                    <div className="hvr-grow-shadow" onClick={() => window.open('/compendiums/TDT4117.pdf')}>
                         <h3>TDT4117</h3>
-                        <p>Informasjonsgjenfinning</p>
+                        <p>Information Retrieval</p>
                     </div>
 
                 </div>
