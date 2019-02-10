@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "code": "TDT4120",
+        "name": "Algoritmer og datastrukturer",
+    },
+    {
+        "id":2,
+        "code": "TDT4160",
+        "name": "Datamaskiner og digitalteknikk",
+    },
+    {
+        "id":3,
+        "code": "TDT4145",
+        "name": "Datamodellering og databasesystemer",
+    },
+    {
+        "id":4,
+        "code": "TDT4180",
+        "name": "Menneske-maskin interaksjon",
+    },
+    {
+        "id":5,
+        "code": "TTM4100",
+        "name": "Kommunikasjon - Tjenester og nett",
+    },
+    {
+        "id":6,
+        "code": "TDT4136",
+        "name": "Introduksjon til kunstig intelligens",
+    },
+    {
+        "id":7,
+        "code": "TDT4117",
+        "name": "Informasjonsgjenfinning",
+    },
+
+
+
+
+
+
+]

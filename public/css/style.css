@@ -17,7 +17,7 @@ body {
     display: flex;
     flex-direction: column;
     margin-left: 80px;
-    margin-right: 20px;
+    margin-right: 80px;
 }
 
 .jumbotron h1 {
@@ -43,8 +43,37 @@ body {
     margin-bottom: 20px;
 }
 
-.compendium_container {
+.compendiums_container {
     margin-top: 20px;
     margin-left: 80px;
     margin-right: 80px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.compendiums_container div {
+    background-color: #7A58A0;
+    padding: 20px;
+    margin: 20px;
+    max-width: 200px;
+    color: white;
+}
+
+.compendiums_container h3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.compendiums_container p {
+    text-align: center;
+    font-size: 15px;
+}
+
+.compendium_container h1 {
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 80px;
+    font-size: 50px;
+    font-weight: lighter;
 }
