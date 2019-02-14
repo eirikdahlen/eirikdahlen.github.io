@@ -77,3 +77,15 @@ body {
     font-size: 50px;
     font-weight: lighter;
 }
+
+.footer_p {
+    background-color: #262626;
+    color: white;
+    text-align: left;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 18px;
+    font-weight: lighter;
+}
