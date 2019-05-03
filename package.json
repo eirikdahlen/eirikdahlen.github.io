@@ -2,7 +2,7 @@
   "name": "eirikdahlen.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/eirikdahlen.github.io",
+  "homepage": "http://eirikdahlen.github.io/eirikdahlen.github.io",
   "main": "./src/index.js",
   "dependencies": {
     "hover.css": "^2.3.2",
